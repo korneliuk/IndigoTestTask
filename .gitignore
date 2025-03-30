@@ -1,0 +1,49 @@
+# Compilation files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.lastbuildstate
+*.aps
+*.ncb
+*.sdf
+*.opendb
+*.VC.db
+*.cache
+
+# Folders of generated builds
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+CMakeFiles/
+
+# CMake and Visual Studio files
+CMakeCache.txt
+CMakeUserPresets.json
+CMakeLists.txt.user
+*.VC.opendb
+*.VC.db
+*.suo
+*.user
+*.sln.docstates
+
+# Log and cache files
+*.log
+*.tmp
+*.cache
+*.swp
+*.bak
+
+# Files related to version control systems and IDEs
+*.vscode/
+.vs/
+.idea/
+*.code-workspace
